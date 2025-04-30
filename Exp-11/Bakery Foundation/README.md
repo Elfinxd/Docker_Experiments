@@ -247,10 +247,6 @@ us-east-1: ami-xxxxxxxxxxxxxxxxx
 
 This indicates that the AMI has been successfully created and is ready for use.
 
-**Screenshot: AMI Created Successfully**
-
-![Ami created in AWS](ami.jpg)
-
 ---
 
 ### 2. Running EC2 Instance with Python 3.9
