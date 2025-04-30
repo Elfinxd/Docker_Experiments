@@ -269,10 +269,6 @@ Python 3.9.21
 
 This confirms that Python 3.9 has been successfully installed on the instance.
 
-**Screenshot: Python 3.9 Installed on EC2 Instance**
-
-![Runnning instance ec2 CLI](ec2.jpg)
-
 ---
 
 ## Default Ubuntu Python Version
